@@ -1,0 +1,9 @@
+fastapi==0.100.1
+uvicorn[standard]==0.23.2
+langchain
+langchain-community
+tiktoken
+sentence-transformers
+langchain-huggingface
+langchain-chroma>=0.1.2
+chroma-hnswlib
